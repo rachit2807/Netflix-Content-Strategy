@@ -1,19 +1,19 @@
-📊 Netflix Content Analysis Project
+# 📊 Netflix Content Analysis Project
 
-🖥️ "Exploring Trends in Netflix Viewership Data"
+# 🖥️ "Exploring Trends in Netflix Viewership Data"
 
-🌟 Project Overview
+# 🌟 Project Overview
 This project dives deep into Netflix's content dataset, uncovering patterns and insights about audience preferences and performance metrics. The analysis sheds light on viewership trends, successful content, release strategies, and more. It is a comprehensive look into what makes Netflix content engaging to viewers worldwide.
 
-🧪 Key Analyses Performed
+# 🧪 Key Analyses Performed
 
-🎥 Viewership Patterns
+# 🎥 Viewership Patterns
 
 •Distribution of total viewership hours between Shows and Movies.
 
 •Analysis of viewership across different Languages.
 
-📆 Release Insights
+# 📆 Release Insights
 
 •Seasonal Trends: Total viewership hours distributed across release seasons.
 
@@ -21,16 +21,17 @@ This project dives deep into Netflix's content dataset, uncovering patterns and 
 
 •Monthly Trends: Number of releases and corresponding viewership hours.
 
-🏆 Content Performance
+# 🏆 Content Performance
 
 •Identification of the most successful content (both Shows and Movies).
 
 •Trends in viewership by content type.
 
-📅 Weekly Trends
+# 📅 Weekly Trends
 •Weekly release patterns and their viewership hours in 2023.
 
-📧 Contact
+# 📧 Contact
+
 Feel free to reach out for collaboration or queries:
 
 •Name: [Rachit Bhatia](https://www.linkedin.com/in/rachit-bhatia-7850b624a/)
