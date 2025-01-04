@@ -8,16 +8,23 @@ This project dives deep into Netflix's content dataset, uncovering patterns and 
 🧪 Key Analyses Performed
 
 🎥 Viewership Patterns
+
 •Distribution of total viewership hours between Shows and Movies.
+
 •Analysis of viewership across different Languages.
 
 📆 Release Insights
+
 •Seasonal Trends: Total viewership hours distributed across release seasons.
+
 •How release dates influence viewership.
+
 •Monthly Trends: Number of releases and corresponding viewership hours.
 
 🏆 Content Performance
+
 •Identification of the most successful content (both Shows and Movies).
+
 •Trends in viewership by content type.
 
 📅 Weekly Trends
